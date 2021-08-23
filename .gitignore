@@ -1,0 +1,10 @@
+.idea/*
+.idea
+secrets_prod.ini
+*.log
+database.db
+data/*
+app/*.json
+app/share/*
+venv/*
+
